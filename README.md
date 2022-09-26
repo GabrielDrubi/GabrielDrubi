@@ -34,4 +34,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/gabrieldrubi/
-[Gmail]: gabrieldrubi@gmail.com
+[Gmail]: mailto:gabrieldrubi@gmail.com
