@@ -29,7 +29,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Linkedin" width="30px" src="./images/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Gmail" width="30px" src="./iamges/gmail.svg" />][Gmail]
+[<img align="left" alt="Gmail" width="30px" src="./iamges/gmail.png" />][Gmail]
 <br />
 <br />
 
