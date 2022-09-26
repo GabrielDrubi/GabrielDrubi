@@ -28,8 +28,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin" width="30px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Gmail" width="30px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+[<img align="left" alt="Linkedin" width="30px" src="./images/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Gmail" width="30px" src="./iamges/gmail.svg" />][Gmail]
 <br />
 <br />
 
