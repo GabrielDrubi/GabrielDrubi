@@ -4,7 +4,7 @@ Currently Studying Software Engineer at PUC-Rio
 
 <br />
 
-<img align="left" width="435px" height="203px" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrieldrubi&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="left" width="435px" height="203px" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrieldrubi&show_icons=true&count_private=true&theme=tokyonight&hide=jupyter%20notebook" />
 
 <img align="right" alt="Gabriel's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldrubi&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
 
